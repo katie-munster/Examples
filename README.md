@@ -2,7 +2,7 @@
 
 ### This repo includes some code examples from my data analysis classes at Bren.
 
-### Shiny App: https://emlab-ucsb.shinyapps.io/fish_homeranges/
+#### Shiny App: https://emlab-ucsb.shinyapps.io/fish_homeranges/
 
 #### R examples:
   - Assignment 4 / esm206-assignment4
