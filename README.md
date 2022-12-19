@@ -6,6 +6,7 @@
   - Assignment 4 / esm206-assignment4
   - Assignment 6 / assignment6_katie_munster
   - esm244_assignment1
+  - Assignment 3/esm244-assignment3
   - 
 
 #### QGIS examples:
