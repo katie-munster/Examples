@@ -4,7 +4,9 @@
 
 #### R examples:
   - Assignment 4 / esm206-assignment4
-  - Assignment 6 / assignment6_katie_munster/
+  - Assignment 6 / assignment6_katie_munster
+  - esm244_assignment1
+  - 
 
 #### QGIS examples:
   - HW 1
